@@ -1,8 +1,0 @@
-Origin: SidiaTEST
-Label: SidiaTEST
-Suite: un-stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: SidiaTEST a test repo for me :3
