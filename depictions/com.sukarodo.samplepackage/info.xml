@@ -1,16 +1,16 @@
 <package>
 	<id>com.sukarodo.samplepackage</id>
-	<name>Sample Package</name>
+	<name>Saily Installer (Early Release)</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>firmware (>11.0)</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>This is a sample new package. Firmware should be greater than 11.0</shortDescription>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
@@ -22,12 +22,12 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>This is a description for screenshot 1. Beautiful discover page!</description>
+			<image>discover.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>This is a description for screenshot 2. Modern sources tab.</description>
+			<image>sources.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
